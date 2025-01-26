@@ -26,7 +26,8 @@ A **simple and user-friendly expense tracker** built with React to help you mana
 ---
 ## Images
 
-![Dashboard Screenshot](home.PNG)
+<img src="home.PNG" alt="Home Page" width="500" />
+
 
 
 ## 📦 Installation
