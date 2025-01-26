@@ -24,6 +24,10 @@ A **simple and user-friendly expense tracker** built with React to help you mana
 - **LocalStorage**: To persist data (optional: integrate a backend later)
 
 ---
+## Images
+
+![Dashboard Screenshot](home.PNG)
+
 
 ## 📦 Installation
 
