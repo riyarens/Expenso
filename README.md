@@ -28,6 +28,7 @@ A **simple and user-friendly expense tracker** built with React to help you mana
 
 <img src="home.PNG" alt="Home Page" width="500"  />
 <img src="Capture.PNG" alt="Add Expense" width="500"/>
+<img src="analysis.PNG" alt="Analysis" width="500"/>
 
 ## 📦 Installation
 
